@@ -1,6 +1,6 @@
 # Solana SPL token Cli tool
 
-[🔗doc](https://outsmartchad.github.io/solana-memecoin-cli/)
+Feel free to reach out of me when you face difficulty[telegram: https://t.me/CatLoverDev].
 
 ### Installation 
 
